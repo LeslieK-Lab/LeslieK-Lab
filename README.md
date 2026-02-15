@@ -13,9 +13,9 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 - 💻 Interested in: Data analysis, ML, AI, dashboards, etc.
 
 ## 🚀 What I'm up to
-- • Working on various project ideas that sprouted on my learning journey. 
-- • Learning and revising Data Science and AI topics to reinforce my learning. 
-- • Curiously researching and pondering over AI Governance. 
+- Working on various project ideas that sprouted on my learning journey. 
+- Learning and revising Data Science and AI topics to reinforce my learning. 
+- Curiously researching and pondering over AI Governance. 
 
 ## 🛠️ My Toolbox (Foundational)
 - **Languages:** Python, SQL
