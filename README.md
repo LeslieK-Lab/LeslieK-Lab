@@ -26,5 +26,6 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 - Avid vocalist ever since I could make sounds with my vocal cords. 🎤
 - Pickleball addict since end 2024 and aiming to start competing more seriously this year. 🏓
 - Need a lot of sleep. It helps my brain defragment. 😴
+- Used to do C/C++ and Object-oriented programming eons back, and loved it! ❤️
 
 
