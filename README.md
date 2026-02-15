@@ -2,7 +2,7 @@
 
 I'm just beginning my journey into **Data Science** and **AI**, and this space is where I’ll be sharing my experiments, learning projects, and occasional happy accidents along the way. 
 
-I’m still finding my footing in the world of code, so please pardon any clumsy commits or rookie mistakes — they’re all part of the process! 😅  
+I’m still finding my footing in the world of code, so please pardon any clumsy commits or rookie mistakes — they’re all part of the process! 😅 Afterall, this is a life-long learning journey isn't it? 
 
 I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learners and enthusiasts. Let’s learn (and probably debug) together! 🚀
 
