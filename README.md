@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there! 👋 This is Leslie! 
 
-<!--
-**LeslieK-Lab/LeslieK-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just beginning my journey into **Data Science** and **AI**, and this space is where I’ll be sharing my experiments, learning projects, and occasional happy accidents along the way. 
 
-Here are some ideas to get you started:
+I’m still finding my footing in the world of code, so please pardon any clumsy commits or rookie mistakes — they’re all part of the process! 😅  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learners and enthusiasts. Let’s learn (and probably debug) together! 🚀
+
+
+## 🦹🏻‍♀️Who am I
+- 🎓 Learner at Nanyang Technological University.
+- 📍 Based in Singapore
+- 💻 Interested in: [Data analysis, ML, AI, dashboards, etc.]
+
+## 🚀 What I'm up to
+- • Working on various project ideas that sprouted on my learning journey. 
+- • Learning and revising Data Science and AI topics to reinforce my learning. 
+- • Curiously researching and pondering over AI Governance. 
+
+## 🛠️ My Toolbox (Foundational)
+- **Languages:** Python, SQL
+- **Data/Tools:** Pandas, NumPy, scikit-learn, Power BI, Excel
+- **Other:** Git, GitHub, Jupyter, VS Code
+
+## 👀 More About Me
+- • Avid vocalist ever since I could make sounds with my vocal cords.
+- • Pickleball addict since end 2024 and aiming to start compete more seriously this year. 
+- • Need a lot of sleep. It helps my brain defragment.
+
