@@ -14,8 +14,8 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 
 ## 🚀 What I'm up to
 - Working on various project ideas that sprouted on my learning journey. 
-- Learning and revising Data Science and AI topics to reinforce my learning. 
-- Curiously researching and pondering over AI Governance. 
+- Revising and practicing Data Science & AI concepts hands-on to solidify my skills. 
+- Curiously researching and pondering AI Governance. 
 
 ## 🛠️ My Toolbox (Foundational)
 - **Languages:** Python, SQL
