@@ -13,7 +13,7 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 - 💻 Interested in: Data analysis, ML, AI, dashboards, etc.
 
 ## 🚀 What I'm up to
-- Working on various project ideas that sprouted on my learning journey. 
+- Working on project ideas that sprouted during my learning journey. 
 - Revising and practicing Data Science & AI concepts hands-on to solidify my skills. 
 - Curiously researching and pondering AI Governance. 
 
