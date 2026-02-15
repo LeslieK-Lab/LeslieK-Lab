@@ -23,7 +23,7 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 - **Other:** Git, GitHub, Jupyter, VS Code
 
 ## 👀 More About Me
-- • Avid vocalist ever since I could make sounds with my vocal cords.
-- • Pickleball addict since end 2024 and aiming to start compete more seriously this year. 
-- • Need a lot of sleep. It helps my brain defragment.
+- Avid vocalist ever since I could make sounds with my vocal cords.
+- Pickleball addict since end 2024 and aiming to start compete more seriously this year. 
+- Need a lot of sleep. It helps my brain defragment.
 
