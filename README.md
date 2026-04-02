@@ -10,7 +10,7 @@ I’d love to hear **tips**, **feedback**, or **suggestions** from fellow learne
 ## 🦹🏻‍♀️Who am I
 - 🎓 Learner at Nanyang Technological University.
 - 📍 Based in Singapore
-- 💻 Interested in: Data analysis, ML, AI, dashboards, etc.
+- 💻 Interested in: AI Governance, Data Privacy, Data Analysis, ML, AI, Dashboards, etc.
 
 ## 🚀 What I'm up to
 - Working on project ideas that sprouted during my learning journey. 
